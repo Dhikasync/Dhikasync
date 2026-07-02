@@ -25,7 +25,7 @@ System Analyst & Software Developer. Skilled in Designing Scalable Architectures
 
 Developed a modern web solution that bridges a professional landing page with semi-marketplace functionalities, providing a seamless user experience for product showcasing.
 
-[View Project](https://github.com/Andhika151003/Landing-Page_Nichibag.git)
+[View Project](https://github.com/Dhikasync/Landing-Page_Nichibag.git)
 
 ---
 
@@ -33,7 +33,7 @@ Developed a modern web solution that bridges a professional landing page with se
 
 Designed and engineered a dedicated mobile e-commerce platform tailored for B2B transactions. The app facilitates efficient communication and commerce between the organization and its business partners, focusing on bulk ordering and professional procurement workflows.
 
-[View Project](https://github.com/Andhika151003/Mobile-app_PT-Kinarya-Agung-Prima.git)
+[View Project](https://github.com/Dhikasync/Mobile-app_PT-Kinarya-Agung-Prima.git)
 
 ---
 
@@ -43,4 +43,4 @@ Designed and engineered a dedicated mobile e-commerce platform tailored for B2B 
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andhika151003&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhikasync&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
