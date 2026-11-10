@@ -1,43 +1,81 @@
-Hi There! 👋, I'm Andhika Pratama
+<div align="center">
 
-Software Engineering Student at Telkom University Surabaya
-System Analyst & Software Developer. Skilled in Designing Scalable Architectures, UML, and Full-stack Web Development (React & Node.js). Currently building a web marketplace with supply-chain integration and 2D custom design as my final thesis, with a backend focus on Laravel.
+# Hi, I'm Andhika Pratama 👋
 
-Contact Me
-<p><a href="https://www.linkedin.com/in/andhika-pratama-adhi-surya-b6a50b214/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/anndhikapr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="mailto:andhikapratama1510@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a></p>
+**System Analyst & Full-Stack Developer**
+Software Engineering student at Telkom University Surabaya
 
-Skills
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-pratama-adhi-surya-b6a50b214/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anndhikapr/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andhikapratama1510@gmail.com)
 
-Projects
-Nichibag Marketplace — Final Thesis
-A web marketplace for Toko Nichibag with supply-chain integration and 2D custom design. Built with Laravel 13 and PostgreSQL 18, with manual authentication (register, login, email verification, password reset, role middleware) and 78 tests.
-View Project
+</div>
 
-Landing Page Nichibag
-Developed a modern web solution that bridges a professional landing page with semi-marketplace functionalities, providing a seamless user experience for product showcasing.
-View Project
+## About me
 
-Mobile Apps Ecommerce for PT Kinarya Agung Prima
-Designed and engineered a dedicated mobile e-commerce platform tailored for B2B transactions. The app facilitates efficient communication and commerce between the organization and its business partners, focusing on bulk ordering and professional procurement workflows.
-View Project
+- 🎓 Software Engineering student at **Telkom University Surabaya**
+- 🧩 Into **system analysis and scalable architecture** — requirements, UML, and database design
+- 💻 Building full-stack web apps with **Laravel, React, and Node.js**
+- 🎯 Currently finishing my thesis: a marketplace with **supply-chain integration** and **2D product customization**
 
-Web3 Wallet Demo — Sepolia Testnet
-A Vite + React wallet demo: connect with MetaMask, view Sepolia ETH balance, sign a message, and interact with a Storage smart contract and a test token. Testnet only — no real funds.
-View Project
+## Tech stack
 
-GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhikasync" alt="GitHub Streak" />
-GitHub Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhikasync&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & libraries**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases & tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## Featured projects
+
+### 🛍️ [Nichibag Marketplace — Final Thesis](https://github.com/Dhikasync/Ecommerce_2dCustom_with_SCM)
+
+A marketplace backend for Toko Nichibag with **supply-chain integration** (raw materials, distributors, purchase orders, goods receiving) and **2D product customization**. Authentication is written manually — registration, email verification, password reset, and role middleware — and covered by 78 tests.
+
+`Laravel 13` `PostgreSQL 18` `PHP 8.3` `PHPUnit`
+
+### 🖥️ [Nichibag Landing Page](https://github.com/Dhikasync/Landing-Page_Nichibag)
+
+A company landing page that doubles as a semi-marketplace, so products can be showcased and explored without leaving the site.
+
+`React` `JavaScript`
+
+### 📱 [E-Commerce App for PT Kinarya Agung Prima](https://github.com/Dhikasync/Mobile-app_PT-Kinarya-Agung-Prima)
+
+A mobile B2B commerce app that streamlines bulk ordering and procurement between the company and its business partners.
+
+`Flutter` `Dart`
+
+### 🔐 [Web3 Wallet Demo — Sepolia Testnet](https://github.com/Dhikasync/wallet-demo)
+
+A Vite + React wallet demo: connect MetaMask, check Sepolia ETH balance, sign a message, and interact with a storage contract and a test token. Testnet only — no real funds.
+
+`React` `Vite` `ethers.js`
+
+## GitHub stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhikasync&theme=tokyonight" alt="GitHub profile summary" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=Dhikasync&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhikasync&theme=tokyonight" alt="Most used languages" />
+
+</div>
