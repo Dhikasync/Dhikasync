@@ -2,8 +2,8 @@
 
 # Hi, I'm Andhika Pratama 👋
 
-**System Analyst & Full-Stack Developer**
-Software Engineering student at Telkom University Surabaya
+**Full-Stack Developer**
+Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-pratama-adhi-surya-b6a50b214/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anndhikapr/)
